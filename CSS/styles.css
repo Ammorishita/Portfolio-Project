@@ -1,0 +1,75 @@
+body {
+	background-color: black;
+}
+.header {
+	display: flex;
+	flex-wrap: wrap;
+}
+.container {
+	width: 1024px;
+	height: auto;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+.feature {
+	text-align: left;
+	width: 1024px;
+}
+.featureimage {
+	width: 250px;
+}
+.footer {
+	width: 1024px;
+	background-color: purple;
+	text-align: center;
+}
+.header {
+	width: 1024px;
+	height: 200px;
+	background-color: blue;
+}
+.mainimage {
+	width: 1024px;
+}
+.logo {
+	width: 512px;
+	height: 20px;
+}
+.main {
+	width: 1024px;
+}
+.name {
+	color: white;
+	text-align: right;
+	width: 512px;
+	height: 20px;
+}
+ul li {
+	color: black;
+	list-style-type: none;
+	display: inline-block;
+	width: 200px;
+	background-color: white;
+	font-size: 50px;
+	margin: auto;
+}
+.project1, 
+.project2, 
+.project3 {
+	width: 333px;
+	height: 200px;
+}
+.projects {
+	width: 1024px;
+	height: auto;
+	background-color: white;
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+}
+.projectinfo {
+	color: red;
+	width: 1024px;
+	background-color: blue;
+}

@@ -1,0 +1,73 @@
+body {
+	background-color: purple;
+}
+.header {
+	display: flex;
+	flex-wrap: wrap;
+}
+.container {
+	width: 100vw;
+	height: auto;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+.feature {
+	text-align: left;
+	width: 100vw;
+}
+.featureimage {
+	width: 250px;
+}
+.footer {
+	width: 100vw;
+	background-color: purple;
+	text-align: center;
+}
+.header {
+	width: 100vw;
+	height: 200px;
+	background-color: red;
+}
+.mainimage {
+	width: 100vw;
+}
+.logo {
+	width: 50vw;
+}
+.main {
+	width: 100vw;
+}
+.name {
+	color: white;
+	text-align: left;
+	width: 50vw;
+}
+ul li {
+	color: black;
+	list-style-type: none;
+	display: inline-block;
+	width: 60px;
+	background-color: white;
+	font-size: 20px;
+	margin: auto;
+}
+.project1, 
+.project2, 
+.project3 {
+	width: 333px;
+	height: 200px;
+}
+.projects {
+	width: 100vw;
+	height: auto;
+	background-color: white;
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+}
+.projectinfo {
+	color: red;
+	width: 100vw;
+	background-color: blue;
+}
